@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130567015903",
+    "project_id": "farmlytics-1",
+    "storage_bucket": "farmlytics-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130567015903:android:a3645a951797504724c86a",
+        "android_client_info": {
+          "package_name": "com.example.uia_hackathon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130567015903-7irjg3f53agae4ko5fa2d7cd273itti3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl3kBLD6veJJsLJPFLZIKLU4IfQQwThSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130567015903-7irjg3f53agae4ko5fa2d7cd273itti3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
